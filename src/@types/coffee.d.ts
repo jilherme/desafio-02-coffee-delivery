@@ -1,0 +1,22 @@
+export type TCoffee =
+  | 'Expresso Tradicional'
+  | 'Expresso Americano'
+  | 'Expresso Cremoso'
+  | 'Expresso Gelado'
+  | 'Café com Leite'
+  | 'Latte'
+  | 'Capuccino'
+  | 'Macchiato'
+  | 'Mocaccino'
+  | 'Chocolate Quente'
+  | 'Cubano'
+  | 'Havaiano'
+  | 'Árabe'
+  | 'Irlandês'
+
+export type TCoffeeTags =
+  | 'TRADICIONAL'
+  | 'COM LEITE'
+  | 'ESPECIAL'
+  | 'ALCOÓLICO'
+  | 'GELADO'
